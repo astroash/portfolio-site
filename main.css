@@ -97,6 +97,13 @@ a {
   margin-bottom: 3%;
 }
 
+.parallax {
+/* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
 .me {
   border-radius: 25px;
   height: 90%;
