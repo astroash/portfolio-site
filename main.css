@@ -34,8 +34,9 @@ h2:before {
   margin-top: 2%
 }
 
-h3 {
-  /*   padding-bottom: 3%; */
+#about-me-para{
+  font-family: Fira Sans;
+  line-height: 120%
 }
 
 a {
